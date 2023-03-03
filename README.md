@@ -8,8 +8,8 @@
     <img align="center" alt="Klay-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Klay-Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Klay-VueJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-     <img align="center" alt="Klay-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="right" alt="Klay-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/954937765584326728/961156006778372136/ezgif.com-gif-maker.gif?width=676&height=676">
+    <img align="center" alt="Klay-sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="right" alt="Klay-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/954937765584326728/961156006778372136/ezgif.com-gif-maker.gif?width=676&height=676">
 </div>
   
   ##
