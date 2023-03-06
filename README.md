@@ -1,21 +1,60 @@
-<div align="center">
-  <a href="https://github.com/KlayRodrigs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KlayRodrigs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlayRodrigs&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Klay-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img align="center" alt="Klay-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Klay-Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Klay-VueJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Klay-sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-    <img align="right" alt="Klay-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/954937765584326728/961156006778372136/ezgif.com-gif-maker.gif?width=676&height=676">
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Klayvert+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Klayvert, Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klayrodrigs&theme=gruvbox)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=klayrodrigs&theme=gruvbox&utcOffset=8)|
+|---|---|
+<br> 
+
+
+|![](https://github-readme-streak-stats.herokuapp.com/?user=klayrodrigs&theme=gruvbox&hide_border=false)|![Klayvert's Stats](https://github-readme-stats.vercel.app/api?username=klayrodrigs&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+|---|---|
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klayrodrigs&theme=gruvbox)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klayRodrigs&theme=gruvbox)
+
+<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/klayrodrigs/)
+<a href = "mailto:klayvertgab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a id="twitter" href="https://twitter.com/klayrodricar" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="_" />
+</a>
+
+<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+
+<table align="center">
+
+  <tr>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="65" height="65" />
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vuejs" alt="icon" width="65" height="65" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
+      <br>Ruby
+    </td>    
+</tr>
+
+</table>
+
+  <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=klayrodrigs&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+ 
   
-  ##
-  
-  <div> 
-  <a href="https://instagram.com/Klayrodrigs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:KlayvertGab@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/klayvert-rodricar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+</div> <br>
