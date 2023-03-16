@@ -40,10 +40,6 @@
       <br>jQuery
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vuejs" alt="icon" width="65" height="65" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
       <br>Ruby
     </td>    
