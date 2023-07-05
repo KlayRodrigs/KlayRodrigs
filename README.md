@@ -37,11 +37,11 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="65" height="65" />
-      <br>jQuery
+      <br>Dart
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
-      <br>Ruby
+      <br>Flutter
     </td>    
 </tr>
 
