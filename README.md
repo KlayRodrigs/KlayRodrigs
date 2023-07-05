@@ -32,15 +32,15 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
       <br>SASS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="65" height="65" />
       <br>jQuery
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
       <br>Ruby
     </td>    
 </tr>
