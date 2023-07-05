@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
-      <br>SASS
+      <br>jQuery
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="65" height="65" />
