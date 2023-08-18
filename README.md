@@ -42,7 +42,11 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
       <br>Flutter
-    </td>    
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+      <br>Figma
+    </td>
 </tr>
 
 </table>
