@@ -32,37 +32,37 @@ Projetos em destaque: [OxeVerde](http://91.230.110.38:8080/oxeverde/)
 
   <tr>
      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
+      <br>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="css" />
+      <br>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="48" height="48" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="55" height="55" />
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="55" height="55" />
-      <br>Dart
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
-      <br>Flutter
+      <br>
     </td>
     
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
-      <br>Java
+      <br>
     </td>
    <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" alt="icon" width="55" height="55" />
-      <br>Quarkus
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
+      <br>
     </td>
 </tr>
 
