@@ -51,6 +51,15 @@ Projetos em destaque: [OxeVerde](http://91.230.110.38:8080/oxeverde/)
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
       <br>Flutter
     </td>
+    
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+   <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" alt="icon" width="55" height="55" />
+      <br>Quarkus
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
       <br>Figma
