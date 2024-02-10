@@ -34,35 +34,43 @@ Projetos em destaque: [OxeVerde](http://91.230.110.38:8080/oxeverde/)
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
       <br>
+      <p>HTML</p>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="css" />
       <br>
+     <p>CSS</p>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="55" height="55" />
       <br>
+     <p>JS</p>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="55" height="55" />
       <br>
+     <p>Dart</p>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
       <br>
+     <p>Flutter</p>
     </td>
     
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
       <br>
+    <p>Java</p>
     </td>
    <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" alt="icon" width="55" height="55" />
       <br>
+    <p>Quarkus</p>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
       <br>
+     <p>Figma</p>
     </td>
 </tr>
 
