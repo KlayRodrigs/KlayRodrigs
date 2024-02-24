@@ -4,7 +4,7 @@
 
 > Desenvolvedor frontend migrando pro mobile e estudante de SI pela UFRPE.
 
-🔭 Percursor do app Oxebus, hoje sendo mantido em equipe, além de alguns freelas e projetos da empresa.
+🌵 Do nordeste pro mundo.
 
 💬 Nunca é tarde pra começar.
 
