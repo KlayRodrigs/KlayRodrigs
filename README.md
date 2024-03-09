@@ -15,9 +15,17 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/94800080?s=200&v=4)">
 
+**Trainee frontend** \
+**NTIST** • Trainee (24/01/2023 ~ 24/01/2024)\
+Linguagens & Tecnologias: `Html`, `Css`, `JavaScript`, `jQuery`, `Boostrap`\
+Projetos em destaque: [OxeVerde](http://91.230.110.38:8080/oxeverde/)
+<br/><br>
+
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/94800080?s=200&v=4)">
+
 **Dev frontend** \
-**NTIST** • Trainee (24/01/2023 ~ hoje)\
-Linguagens & Tecnologias: `Html`, `Css`, `JavaScript`, `jQuery`, `Boostrap`,\
+**NTIST** • Junior (24/01/2024 ~ hoje)\
+Linguagens & Tecnologias: `Html`, `Css`, `JavaScript`, `jQuery`, `Boostrap`\
 Projetos em destaque: [OxeVerde](http://91.230.110.38:8080/oxeverde/)
 <br/><br>
 <h2><img src="https://media.giphy.com/media/hU3t8QEhryKqh3IaJW/giphy.gif" width="40px" height="40px"> Contacts:</h2>
