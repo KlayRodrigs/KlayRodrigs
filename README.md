@@ -19,7 +19,7 @@ Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Boostrap`,`Postgres`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://media.istockphoto.com/id/1417047920/vector/red-confidential-stamp.jpg?s=612x612&w=0&k=20&c=KpJw-M6Bvctr6SzOyST1qnHkvgdtQRG_GIc6cjJgw54=">
-**Trainee Flutter** \
+**Flutter developer** \
 **Private project** • Trainee (13/07/2024 ~ now)\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Git`, `Linux`\
 <br>
