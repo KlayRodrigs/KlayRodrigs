@@ -41,10 +41,12 @@ Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Git`, `Linux`\
 </div>
 <h4>Devops:</h4>
 <div style="display: flex;">
- <img src="https://img.shields.io/badge/Linux*-D14836?style=for-the-badge&logo=linux&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-2BB6F6?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/Git*-D14836?style=for-the-badge&logo=git&logoColor=white">
- 
+ <img src="https://img.shields.io/badge/Git*-D14836?style=for-the-badge&logo=git&logoColor=white"> 
+</div>
+<h4>SO:</h4>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Linux-D14836?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 <h4>Agiles:</h4>
 <div style="display: flex;">
