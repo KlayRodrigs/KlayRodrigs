@@ -24,7 +24,7 @@ Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Boostrap`,`Postgres`\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Git`, `Linux`\
 <br>
 <h2> Contacts:</h2>
-<a href = "https://api.whatsapp.com/send?phone=558788578096&text='Olá desenvolvedor, gostaria de conversar com você'" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-24891f?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href = "https://api.whatsapp.com/send?phone=558788578096&text=Olá desenvolvedor, gostaria de conversar com você" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-24891f?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href = "mailto:KlayRodrigs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
 <h2> Skills:</h2>
