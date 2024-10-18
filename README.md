@@ -6,8 +6,6 @@
 
 🌵 Do nordeste pro mundo.
 
-💬 Is not too late, is never too late.
-
 ---
  <h2>Jobs:</h2>
 
@@ -43,6 +41,10 @@ Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Git`, `Linux`\
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/Docker-2BB6F6?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/Git*-D14836?style=for-the-badge&logo=git&logoColor=white"> 
+</div>
+<h4>Analytics:</h4>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Amplitude-2063F0?style=for-the-badge&logo=amplitude&logoColor=white">
 </div>
 <h4>SO:</h4>
 <div style="display: flex;">
