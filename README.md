@@ -1,10 +1,8 @@
 
 
-<h2>Hello, i'm <strong>Klayvert!</strong></h2>
+<h2>Hello, i'm <strong>Klayvert!</strong> 🌵</h2>
 
-> Flutter developer with experience in web development and a student of information systems at UFRPE-UAST.
-
-🌵 Do nordeste pro mundo.
+> Flutter developer with experience in web development and web scraping using Python. Additionally, I am also a student of Information Systems at UFRPE-UAST (Brazil).
 
 ---
  <h2>Jobs:</h2>
@@ -30,17 +28,12 @@ Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Git`, `Linux`\
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/Dart-2BB6F6?style=for-the-badge&logo=dart&logoColor=white">
  <img src="https://img.shields.io/badge/Flutter-2372D5?style=for-the-badge&logo=flutter&logoColor=white">
-</div>
-<h4>Databases:</h4>
-<div style="display: flex;">
- <img src="https://img.shields.io/badge/sql-2BB6F6?style=for-the-badge&logo=sql&logoColor=white">
- <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
- <img src="https://img.shields.io/badge/Postgres-2BB6F6?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <h4>Devops:</h4>
 <div style="display: flex;">
- <img src="https://img.shields.io/badge/Docker-2BB6F6?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/Git*-D14836?style=for-the-badge&logo=git&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Git*-D14836?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/GitHub Actions-D14836?style=for-the-badge&logo=githubactions&logoColor=white"> 
 </div>
 <h4>Analytics:</h4>
 <div style="display: flex;">
