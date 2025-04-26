@@ -10,14 +10,20 @@
 <img align="left" height="70px" width="70px" alt="ntist" src="https://avatars.githubusercontent.com/u/94800080?s=200&v=4)">
 
 **Frontend developer** \
-**NTIST** • Trainee (24/01/2023 ~ 10/08/2024)\
+**NTIST** • Intern (24/01/2023 ~ 10/08/2024)\
 Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Boostrap`,`Postgres`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://media.istockphoto.com/id/1417047920/vector/red-confidential-stamp.jpg?s=612x612&w=0&k=20&c=KpJw-M6Bvctr6SzOyST1qnHkvgdtQRG_GIc6cjJgw54=">
 **Flutter developer** \
-**Private project** • Trainee (13/07/2024 ~ now)\
+**Private project** • Junior (13/07/2024 ~ now)\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Git`, `Linux`\
+<br>
+<br>
+<img align="left" height="70px" width="70px" alt="private" src="https://media.istockphoto.com/id/1417047920/vector/red-confidential-stamp.jpg?s=612x612&w=0&k=20&c=KpJw-M6Bvctr6SzOyST1qnHkvgdtQRG_GIc6cjJgw54=">
+**Flutter developer freelancer** \
+**Private project** • Junior (21/03/2025 ~ now)\
+Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <h2> Contacts:</h2>
 <a href = "https://api.whatsapp.com/send?phone=558788578096&text=Olá desenvolvedor, gostaria de conversar com você" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-24891f?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
