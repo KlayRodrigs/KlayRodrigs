@@ -54,7 +54,7 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 </div>
 <h4>Analytics:</h4>
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/Amplitude-2063F0?style=for-the-badge&logo=amplitude&logoColor=white">
+  <img src="https://img.shields.io/badge/Amplitude-2063F0?style=for-the-badge&logo=googleanalytics&logoColor=white">
 </div>
 <h4>SO:</h4>
 <div style="display: flex;">
