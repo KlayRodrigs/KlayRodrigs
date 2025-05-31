@@ -26,15 +26,21 @@ Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <h2> Contacts:</h2>
-<a href = "https://api.whatsapp.com/send?phone=558788578096&text=Olá desenvolvedor, gostaria de conversar com você" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-24891f?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href = "https://api.whatsapp.com/send?phone=558788578096&text=Olá desenvolvedor, gostaria de conversar com você" target="blank"><img src="https://img.shields.io/badge/Whatsapp-24891f?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href = "mailto:klayrodrigsdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/klayrodrigs/" target="blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=inspire&logoColor=white"></a>
 <br>
 <h2>Skills:</h2>
 <h4>Programming:</h4>
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/Dart-2BB6F6?style=for-the-badge&logo=dart&logoColor=white">
  <img src="https://img.shields.io/badge/Flutter-2372D5?style=for-the-badge&logo=flutter&logoColor=white">
-<!--  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"> -->
+ <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white">
+</div>
+<h4>Arch Concepts:</h4>
+<div style="display: flex;">
+ <img src="https://img.shields.io/badge/MVVM-black?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Multi layer-black?style=for-the-badge">
 </div>
 <h4>Devops:</h4>
 <div style="display: flex;">
