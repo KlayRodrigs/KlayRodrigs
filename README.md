@@ -11,7 +11,7 @@
 
 **Frontend developer** \
 **NTIST** • Intern (24/01/2023 ~ 10/08/2024)\
-Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Boostrap`,`Postgres`\
+Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Postgres`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://media.istockphoto.com/id/1417047920/vector/red-confidential-stamp.jpg?s=612x612&w=0&k=20&c=KpJw-M6Bvctr6SzOyST1qnHkvgdtQRG_GIc6cjJgw54=">
