@@ -45,7 +45,8 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <h4>Test:</h4>
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/Unit test-D14836?style=for-the-badge&logo=qa&logoColor=white">
- <img src="https://img.shields.io/badge/Widget test-D14836?style=for-the-badge&logo=devops&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Widget test-D14836?style=for-the-badge&logo=devops&logoColor=white">
+ <img src="https://img.shields.io/badge/E2E test-D14836?style=for-the-badge&logo=devops&logoColor=white">
 </div>
 <h4>Analytics:</h4>
 <div style="display: flex;">
