@@ -10,19 +10,19 @@
 <img align="left" height="70px" width="70px" alt="ntist" src="https://avatars.githubusercontent.com/u/94800080?s=200&v=4)">
 
 **Frontend developer** \
-**NTIST** • Intern (24/01/2023 ~ 10/08/2024)\
+**NTIST** | BR • Intern (24/01/2023 ~ 10/08/2024)\
 Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Postgres`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://m.media-amazon.com/images/I/51vRthnbiZL.jpg">
 **Flutter developer** \
-**Private project** • Junior (13/07/2024 ~ now)\
+**Private project** | BR • Junior (13/07/2024 ~ now)\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 <br>
 <br>
-<img align="left" height="70px" width="70px" alt="private" src="https://m.media-amazon.com/images/I/51vRthnbiZL.jpg">
+<img align="left" height="70px" width="70px" alt="private" src="https://media.licdn.com/dms/image/v2/D4D0BAQE4lL6Xswh11Q/company-logo_200_200/B4DZijquTFG8AI-/0/1755092542996/coflint_logo?e=1758153600&v=beta&t=PuCwMC5XXLop3pm65o_dfdxXjJI1VUn1f5g2k77LrZU">
 **Flutter developer freelancer** \
-**Private project** • Junior (21/03/2025 ~ now)\
+**Coflint** | CH • Junior (21/03/2025 ~ now)\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <h2>Skills:</h2>
@@ -61,6 +61,7 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
  <img src="https://img.shields.io/badge/Trello-085CD6?style=for-the-badge&logo=trello&logoColor=white">
  <img src="https://img.shields.io/badge/Slack-611F69?style=for-the-badge&logo=slack&logoColor=white">
  <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white">
+ <img src="https://img.shields.io/badge/Clickup-f85cd6?style=for-the-badge&logo=clickup&logoColor=white">
 </div>
 </div> 
 <h2> Contacts:</h2>
