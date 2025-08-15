@@ -52,7 +52,7 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Amplitude-2063F0?style=for-the-badge&logo=googleanalytics&logoColor=white">
 </div>
-<h4>SO:</h4>
+<h4>OS:</h4>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Linux-D14836?style=for-the-badge&logo=linux&logoColor=white">
 </div>
