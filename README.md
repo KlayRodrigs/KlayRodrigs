@@ -65,7 +65,6 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 </div>
 </div> 
 <h2> Contacts:</h2>
-<a href = "https://api.whatsapp.com/send?phone=558788578096&text=Olá desenvolvedor, gostaria de conversar com você" target="blank"><img src="https://img.shields.io/badge/Whatsapp-24891f?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href = "mailto:klayrodrigsdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/klayrodrigs/" target="blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=inspire&logoColor=white"></a>
 <br>
