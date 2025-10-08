@@ -54,6 +54,7 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 </div>
 <h4>OS:</h4>
 <div style="display: flex;">
+  <img src="https://img.shields.io/badge/MacOS-silver?style=for-the-badge&logo=macos&logoColor=black">
   <img src="https://img.shields.io/badge/Linux-D14836?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 <h4>Agiles:</h4>
