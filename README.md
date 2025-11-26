@@ -20,7 +20,7 @@ Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Postgres`\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 <br>
 <br>
-<img align="left" height="70px" width="70px" alt="private" src="https://media.licdn.com/dms/image/v2/D4D0BAQE4lL6Xswh11Q/company-logo_200_200/B4DZijquTFG8AI-/0/1755092542996/coflint_logo?e=1758153600&v=beta&t=PuCwMC5XXLop3pm65o_dfdxXjJI1VUn1f5g2k77LrZU">
+<img align="left" height="70px" width="70px" alt="private" src="https://media.licdn.com/dms/image/v2/D4D0BAQE4lL6Xswh11Q/company-logo_200_200/B4DZijquTFG8AI-/0/1755092542996/coflint_logo?e=1766016000&v=beta&t=FRSJTFfltta4BGea67jiGy4c0Zqy0TY6WMm3nv-joSQ">
 **Flutter developer** \
 **Coflint** | CH • Junior (21/03/2025 ~ now)\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
