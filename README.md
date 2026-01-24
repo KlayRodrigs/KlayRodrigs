@@ -10,19 +10,19 @@
 <img align="left" height="70px" width="70px" alt="ntist" src="https://avatars.githubusercontent.com/u/94800080?s=200&v=4)">
 
 **Frontend developer** \
-**NTIST** | BR • Intern (24/01/2023 ~ 10/08/2024)\
+**NTIST** | Brasil • Intern (24/01/2023 ~ 10/08/2024)\
 Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Postgres`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://m.media-amazon.com/images/I/51vRthnbiZL.jpg">
 **Flutter developer** \
-**Private project** | BR • Junior (13/07/2024 ~ now)\
+**Private project** | Brasil • Junior (13/07/2024 ~ now)\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 <br>
 <br>
-<img align="left" height="70px" width="70px" alt="private" src="https://media.licdn.com/dms/image/v2/D4D0BAQE4lL6Xswh11Q/company-logo_200_200/B4DZijquTFG8AI-/0/1755092542996/coflint_logo?e=1766016000&v=beta&t=FRSJTFfltta4BGea67jiGy4c0Zqy0TY6WMm3nv-joSQ">
+<img align="left" height="70px" width="70px" alt="private" src="https://media.licdn.com/dms/image/v2/D4D0BAQE4lL6Xswh11Q/company-logo_200_200/B4DZijquTFG8AI-/0/1755092542996/coflint_logo?e=1770854400&v=beta&t=7IDdNA5VN1zsE3kOdJL0Wwv-bnqBA6hlKZhz5J7Sp70">
 **Flutter developer** \
-**Coflint** | CH • Junior (21/03/2025 ~ now)\
+**Coflint** | Estônia • Junior (21/03/2025 ~ now)\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <h2>Skills:</h2>
@@ -31,6 +31,7 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
  <img src="https://img.shields.io/badge/Dart-2BB6F6?style=for-the-badge&logo=dart&logoColor=white">
  <img src="https://img.shields.io/badge/Flutter-2372D5?style=for-the-badge&logo=flutter&logoColor=white">
  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/Supabase-2e2e2e?style=for-the-badge&logo=supabase&logoColor=3ecf8e">
 </div>
 <h4>Arch Concepts:</h4>
 <div style="display: flex;">
