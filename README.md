@@ -11,7 +11,7 @@
 
 **Frontend developer** \
 **NTIST** | Brasil • Intern (24/01/2023 ~ 10/08/2024)\
-Tecnologies: `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Postgres`\
+Tecnologies: `Flutter`, `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Postgres`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://m.media-amazon.com/images/I/51vRthnbiZL.jpg">
