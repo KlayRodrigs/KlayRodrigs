@@ -16,13 +16,13 @@ Tecnologies: `Flutter`, `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Post
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://m.media-amazon.com/images/I/51vRthnbiZL.jpg">
 **Flutter developer** \
-**Private project** | Brasil • Junior (13/07/2024 ~ now)\
+**Private project** | Brasil • Junior (13/07/2024 ~ 13/04/2026)\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://media.licdn.com/dms/image/v2/D4D0BAQE4lL6Xswh11Q/company-logo_200_200/B4DZijquTFG8AI-/0/1755092542996/coflint_logo?e=1770854400&v=beta&t=7IDdNA5VN1zsE3kOdJL0Wwv-bnqBA6hlKZhz5J7Sp70">
 **Flutter developer** \
-**Coflint** | Estônia • Junior (21/03/2025 ~ now)\
+**Coflint** | Estônia • Junior (21/03/2025 ~ 13/04/2026)\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <h2>Skills:</h2>
