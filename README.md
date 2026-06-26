@@ -20,9 +20,9 @@ Tecnologies: `Flutter`, `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Post
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 <br>
 <br>
-<img align="left" height="70px" width="70px" alt="private" src="https://media.licdn.com/dms/image/v2/D4D0BAQE4lL6Xswh11Q/company-logo_200_200/B4DZijquTFG8AI-/0/1755092542996/coflint_logo?e=1770854400&v=beta&t=7IDdNA5VN1zsE3kOdJL0Wwv-bnqBA6hlKZhz5J7Sp70">
+<img align="left" height="70px" width="70px" alt="private" src="https://media.theirstack.com/company/logo/domain/coflint.com.jpeg">
 **Flutter developer** \
-**Coflint** | Estônia • Junior (21/03/2025 ~ 13/04/2026)\
+**Coflint** | Estonia • Junior (21/03/2025 ~ 13/04/2026)\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <h2>Skills:</h2>
@@ -30,13 +30,22 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/Dart-2BB6F6?style=for-the-badge&logo=dart&logoColor=white">
  <img src="https://img.shields.io/badge/Flutter-2372D5?style=for-the-badge&logo=flutter&logoColor=white">
- <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-f1ee8e?style=for-the-badge&logo=python&logoColor=black">
+ <img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logoColor=3ecf8e">
+</div>
+
+<h4>Cloud & Backend Platforms:</h4>
+<div style="display: flex;">
+ <img src="https://img.shields.io/badge/Firebase-e6b400?style=for-the-badge&logo=firebase&logoColor=white">
  <img src="https://img.shields.io/badge/Supabase-2e2e2e?style=for-the-badge&logo=supabase&logoColor=3ecf8e">
+ <img src="https://img.shields.io/badge/Railway-13111c?style=for-the-badge&logo=railway&logoColor=white">
 </div>
 <h4>Arch Concepts:</h4>
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/MVVM-black?style=for-the-badge">
  <img src="https://img.shields.io/badge/Multi layer-black?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Microservice-black?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Monolith-black?style=for-the-badge">
 </div>
 <h4>Devops:</h4>
 <div style="display: flex;">
