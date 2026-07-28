@@ -2,7 +2,7 @@
 
 <h2>Hello, i'm <strong>Klayvert!</strong> 🌵</h2>
 
-> Flutter developer with experience in web development. Additionally, I am also a student of Information Systems at UFRPE-UAST (Brazil).
+> Flutter developer with experience in web development and backend. Additionally, I am also a student of Information Systems at UFRPE-UAST (Brazil).
 
 ---
  <h2>Jobs:</h2>
@@ -10,13 +10,13 @@
 <img align="left" height="70px" width="70px" alt="ntist" src="https://avatars.githubusercontent.com/u/94800080?s=200&v=4)">
 
 **Frontend developer** \
-**NTIST** | Brasil • Intern (24/01/2023 ~ 10/08/2024)\
+**NTIST** | Brazil • Intern (24/01/2023 ~ 10/08/2024)\
 Tecnologies: `Flutter`, `Html`, `Css`, `JavaScript`, `jQuery`, `Bootstrap`,`Postgres`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://m.media-amazon.com/images/I/51vRthnbiZL.jpg">
 **Flutter developer** \
-**Private project** | Brasil • Junior (13/07/2024 ~ 13/04/2026)\
+**Private project** | Brazil • Junior (13/07/2024 ~ 13/04/2026)\
 Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 <br>
 <br>
@@ -24,6 +24,12 @@ Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 **Flutter developer** \
 **Coflint** | Estonia • Junior (21/03/2025 ~ 13/04/2026)\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
+<br>
+<br>
+<img align="left" height="70px" width="70px" alt="private" src="https://yt3.googleusercontent.com/dxDpQ0OCzFrH3ZQ5X9_pb1sjarfN371irInF903-0yIPhVT1HVsYeR1Om5Z3JUZUnAUb1H_G4w=s900-c-k-c0x00ffffff-no-rj">
+**Undergraduate Research Fellow at PIBITI** \
+**Universidade Federal Rural de Pernambuco - Unidade Acadêmica de Serra Talhada** | Brazil (28/07/2026 ~ Now)\
+Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
 <br>
 <h2>Skills:</h2>
 <h4>Programming:</h4>
