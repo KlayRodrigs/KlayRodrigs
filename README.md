@@ -26,8 +26,8 @@ Tecnologies: `Dart`, `Flutter`, `Goldentests`, `Unit tests`, `Git`, `Linux`\
 Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <br>
-<img align="left" height="70px" width="70px" alt="private" src="https://yt3.googleusercontent.com/dxDpQ0OCzFrH3ZQ5X9_pb1sjarfN371irInF903-0yIPhVT1HVsYeR1Om5Z3JUZUnAUb1H_G4w=s900-c-k-c0x00ffffff-no-rj">
-**Undergraduate Research Fellow at PIBITI** \
+<img align="left" height="70px" width="70px" alt="private" src="https://feciv.ufu.br/sites/feciv.ufu.br/files/cnpq_icone.png">
+**Fellow funded by CNPq** \
 **Universidade Federal Rural de Pernambuco - UAST** | Brazil (28/07/2026 ~ Now)\
 Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
 <br>
