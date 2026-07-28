@@ -28,7 +28,7 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://yt3.googleusercontent.com/dxDpQ0OCzFrH3ZQ5X9_pb1sjarfN371irInF903-0yIPhVT1HVsYeR1Om5Z3JUZUnAUb1H_G4w=s900-c-k-c0x00ffffff-no-rj">
 **Undergraduate Research Fellow at PIBITI** \
-**Universidade Federal Rural de Pernambuco - Unidade Acadêmica de Serra Talhada** | Brazil (28/07/2026 ~ Now)\
+**Universidade Federal Rural de Pernambuco - UAST** | Brazil (28/07/2026 ~ Now)\
 Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
 <br>
 <h2>Skills:</h2>
