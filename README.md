@@ -27,7 +27,7 @@ Tecnologies: `Dart`, `Flutter`, `Git`, `Firebase`\
 <br>
 <br>
 <img align="left" height="70px" width="70px" alt="private" src="https://feciv.ufu.br/sites/feciv.ufu.br/files/cnpq_icone.png">
-**Fellow funded by CNPq** \
+**Fellow funded by CNPq | PIBITI** \
 **Universidade Federal Rural de Pernambuco - UAST** | Brazil (01/09/2026 ~ Now)\
 Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
 <br>
