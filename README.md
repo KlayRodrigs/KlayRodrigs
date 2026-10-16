@@ -34,9 +34,9 @@ Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
 <h2>Skills:</h2>
 <h4>Programming:</h4>
 <div style="display: flex;">
- <img src="https://img.shields.io/badge/Dart-2BB6F6?style=for-the-badge&logo=dart&logoColor=white">
  <img src="https://img.shields.io/badge/Flutter-2372D5?style=for-the-badge&logo=flutter&logoColor=white">
- <img src="https://img.shields.io/badge/Python-f1ee8e?style=for-the-badge&logo=python&logoColor=black">
+ <img src="https://img.shields.io/badge/Springboot-wine?style=for-the-badge&logo=springboot&logoColor=white">
+ <img src="https://img.shields.io/badge/Quarkus-4592E6?style=for-the-badge&logo=quarkus&logoColor=white">
  <img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logoColor=3ecf8e">
 </div>
 
@@ -45,6 +45,7 @@ Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
  <img src="https://img.shields.io/badge/Firebase-e6b400?style=for-the-badge&logo=firebase&logoColor=white">
  <img src="https://img.shields.io/badge/Supabase-2e2e2e?style=for-the-badge&logo=supabase&logoColor=3ecf8e">
  <img src="https://img.shields.io/badge/Railway-13111c?style=for-the-badge&logo=railway&logoColor=white">
+ <img src="https://img.shields.io/badge/NeonDB-34D59A?style=for-the-badge&logo=neon&logoColor=white">
 </div>
 <h4>Arch Concepts:</h4>
 <div style="display: flex;">
@@ -67,6 +68,8 @@ Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
 <h4>Analytics:</h4>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Amplitude-2063F0?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Posthog-D2D9C5?style=for-the-badge&logo=posthog&logoColor=white">
+  <img src="https://img.shields.io/badge/Sentry-1F1633?style=for-the-badge&logo=sentry&logoColor=white">
 </div>
 <h4>OS:</h4>
 <div style="display: flex;">
