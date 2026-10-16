@@ -35,8 +35,8 @@ Tecnologies: `Dart`, `Flutter`, `Python`, `Postgres`, `Excel`\
 <h4>Programming:</h4>
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/Flutter-2372D5?style=for-the-badge&logo=flutter&logoColor=white">
- <img src="https://img.shields.io/badge/Springboot-wine?style=for-the-badge&logo=springboot&logoColor=white">
- <img src="https://img.shields.io/badge/Quarkus-4592E6?style=for-the-badge&logo=quarkus&logoColor=white">
+ <!-- <img src="https://img.shields.io/badge/Springboot-wine?style=for-the-badge&logo=springboot&logoColor=white"> -->
+ <!-- <img src="https://img.shields.io/badge/Quarkus-4592E6?style=for-the-badge&logo=quarkus&logoColor=white"> -->
  <img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logoColor=3ecf8e">
 </div>
 
